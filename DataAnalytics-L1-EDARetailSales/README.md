@@ -35,12 +35,19 @@ The dataset contains 1,000 records and 9 columns.
 
 ## Visualizations
 
-The `images` folder contains the following charts:
+## Visualizations
 
-1. Customer Age Distribution
-2. Monthly Sales Trend
-3. Revenue by Product Category
-4. Transactions by Product Category
+### 1. Customer Age Distribution
+![Customer Age Distribution](images/Customer%20age%20distribution.png)
+
+### 2. Monthly Sales Trend
+![Monthly Sales Trend](images/Monthly%20sales%20trend%20chart.png)
+
+### 3. Revenue by Product Category
+![Revenue by Product Category](images/Revenue%20by%20Product%20Category.png)
+
+### 4. Transactions by Product Category
+![Transactions by Product Category](images/Transactions%20by%20Product%20Category.png)
 
 ## Project Files
 - `retail_sales_analysis.ipynb` – Jupyter Notebook containing the analysis.
