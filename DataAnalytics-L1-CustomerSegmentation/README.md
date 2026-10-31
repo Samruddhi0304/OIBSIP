@@ -31,14 +31,19 @@ This project focuses on segmenting customers based on their purchasing behavior 
 
 ## Visualizations
 
+## Visualizations
+
 ### 1. Elbow Method Plot
-![Elbow Method Plot](images/elbow_method.png)
+
+![Elbow Method Plot](https://github.com/Samruddhi0304/OIBSIP/raw/main/DataAnalytics-L1-CustomerSegmentation/images/elbow_method.png)
 
 ### 2. Customer Count by Cluster
-![Customer Count by Cluster](images/customer_count_by_cluster.png)
+
+![Customer Count by Cluster](https://github.com/Samruddhi0304/OIBSIP/raw/main/DataAnalytics-L1-CustomerSegmentation/images/customer_count_by_cluster.png)
 
 ### 3. Recency vs. Monetary Scatter Plot
-![Recency vs Monetary](images/recency_vs_monetary.png)
+
+![Recency vs Monetary Scatter Plot](https://github.com/Samruddhi0304/OIBSIP/raw/main/DataAnalytics-L1-CustomerSegmentation/images/recency_vs_monetary.png)
 ## Key Learning Outcomes
 - Customer behavior analysis using RFM.
 - Data preprocessing and feature standardization.
