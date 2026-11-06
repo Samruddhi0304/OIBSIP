@@ -50,3 +50,7 @@ This project demonstrates how Natural Language Processing and Machine Learning c
 1. Install the required libraries.
 2. Place the dataset in the expected project folder.
 3. Run `python sentiment_analysis.py` from the project directory.
+
+## Level 2 - Task 1: House Price Prediction
+
+[View House Price Prediction Project](DataAnalytics-L2-HousePricePrediction/README.md)
