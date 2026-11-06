@@ -47,4 +47,4 @@ The project demonstrates how Linear Regression can be used to predict house pric
 
 ## House Price Prediction - Output Dataset
 
-[Download House Price Predictions CSV](DataAnalytics-L2-HousePricePrediction/house_price_predictions.csv)
+[Download House Price Training Dataset (train.csv)](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
