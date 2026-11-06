@@ -1,0 +1,6 @@
+text,actual_sentiment,predicted_sentiment
+@united past,neutral,negative
+@JetBlue would you say a delay is more likely? Thanks so much.,positive,negative
+@united This link in your tweet goes to someone's internal email -&gt; http://t.co/ZksX79itdN...... Probably one of your 3rd party IT contracts,neutral,negative
+@SouthwestAir When will the flight resume? I don's see it in the open schedule. :/,negative,neutral
+@USAirways Well I did miss it. But gate agents had rebooked boarding pass waiting when I landed. Time for lunch &amp; a beverage. Easy cheesy,positive,negative
