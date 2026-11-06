@@ -31,16 +31,14 @@ This project focuses on segmenting customers based on their purchasing behavior 
 
 ## Visualizations
 
-## Visualizations
-
 ### 1. Elbow Method Plot
-
-![Elbow Method Plot](https://github.com/Samruddhi0304/OIBSIP/raw/main/DataAnalytics-L1-CustomerSegmentation/images/elbow_method.png)
+![Elbow Method Plot](screenshots/elbow_method.png)
 
 ### 2. Customer Count by Cluster
+![Customer Count by Cluster](screenshots/customer_segments.png)
 
-![Customer Count by Cluster](https://github.com/Samruddhi0304/OIBSIP/raw/main/DataAnalytics-L1-CustomerSegmentation/images/customer_count_by_cluster.png)
-
+### 3. Recency vs. Monetary Scatter Plot
+![Recency vs Monetary Scatter Plot](screenshots/recency_vs_monetary.png)
 ### 3. Recency vs. Monetary Scatter Plot
 
 ![Recency vs Monetary Scatter Plot](https://github.com/Samruddhi0304/OIBSIP/raw/main/DataAnalytics-L1-CustomerSegmentation/images/recency_vs_monetary.png)
