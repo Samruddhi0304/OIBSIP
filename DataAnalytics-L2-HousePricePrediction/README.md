@@ -44,3 +44,7 @@ The `screenshots` folder contains:
 
 ## Conclusion
 The project demonstrates how Linear Regression can be used to predict house prices using property-related features.
+
+## House Price Prediction - Output Dataset
+
+[Download House Price Predictions CSV](DataAnalytics-L2-HousePricePrediction/house_price_predictions.csv)
